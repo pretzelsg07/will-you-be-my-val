@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "sure ka bruh??",
-    "sure na sure??",
-    "ayaw mo?",
-    "bruhh pleasee",
+    "sure ka bruh??😶",
+    "sure na sure??🤨",
+    "ayaw mo?🙄",
+    "awit nayan trixie😶",
     "okay ulitin natin",
-    "pwede baa kita maging valentine",
-    "pwede ba...",
+    "pwede baa kita maging valentine😍",
+    "abruhhhhh..",
     "okay lang naman...",
-    "Ok ge na,okay lang...",
+    "Ok ge na,okay lang...🤑",
     "JOKEE LANG,can you be my valentine? ❤️"
     
 ];
