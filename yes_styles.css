@@ -8,6 +8,16 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin: 0;
+    background-color: #ff9494;
+    font-family: 'Roboto', sans-serif;
+}
+
 .container {
     text-align: center;
 }

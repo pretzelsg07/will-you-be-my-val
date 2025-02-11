@@ -54,7 +54,7 @@
 })();
 */
 const messages = [
-    "sure ka?",
+    "sure ka bruh??",
     "sure na sure??",
     "ayaw mo?",
     "bruhh pleasee",
@@ -63,7 +63,7 @@ const messages = [
     "pwede ba...",
     "okay lang naman...",
     "Ok ge na,okay lang...",
-    "joke lang,can you be my valentine? ❤️"
+    "JOKEE LANG,can you be my valentine? ❤️"
     
 ];
 
