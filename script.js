@@ -64,7 +64,6 @@ const messages = [
     "okay lang naman...",
     "Ok ge na,okay lang...🤑",
     "JOKEE LANG,can you be my valentine? ❤️"
-    
 ];
 
 let messageIndex = 0;
